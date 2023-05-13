@@ -1,0 +1,238 @@
+@media (max-width: 1000px){
+    body{
+        overflow-x: hidden;
+    }
+    .headerbar{
+        background-color: rgba(1, 104, 183, 1);
+        height: 42px;
+        width: 100%;
+    }
+    .Home{
+        display: none;
+        
+    }
+    .statistic{
+        display: none;
+    }
+    .faq{
+        display: none;
+    }
+    .support{
+        display: none;
+    }
+    .goldrptext{
+        position: absolute;
+        width: 109px;
+        height: 29px;
+        left: 70px;
+        top: -12px;
+    
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 29px;
+        /* identical to box height */
+    
+    
+        color: #EBFF00;
+    }
+    .transparentbaiterek{
+        width: 100%;
+    }
+    .logog{
+        position: absolute;
+        width: 320px;
+        height: 206px;
+        left: 20%;
+        top: 118px;
+    }
+    .infotext{
+        position: absolute;
+        width: 641px;
+        height: 115px;
+        left: 5%;
+        top: 316px;
+    }
+    .statrec{
+        position: absolute;
+        width: 90%;
+        height: 339px;
+        left: 5%;
+        top: 668px;    
+    }
+    .statis{
+        left: 35%;
+    }
+    .circlestat{
+        position: absolute;
+        width: 162px;
+        height: 169px;
+        left: 40%;
+        top: 695px;
+    }
+    .footlogo{
+        position: absolute;
+        width: 103px;
+        height: 100px;
+        left: 20px;
+        top: 35px;
+    }
+    .copyright{
+        position: absolute;
+        width: 226px;
+        height: 19px;
+        left: 9px;
+        top: 90px;
+    
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 19px;
+    
+        color: #ffffff;
+    }
+    .contacttext{
+        position: absolute;
+        width: 190px;
+        height: 24px;
+        left: 171px;
+        top: 10px;
+    
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 700;
+        font-size: 10px;
+        line-height: 24px;
+        /* identical to box height */
+    
+    
+        color: #ffffff;
+    }
+    .contactus{
+        position: absolute;
+        left: 171px;
+        top: 35px;
+    }
+    .telegram{
+        margin-right: 5px;
+        height: 20px;
+        width: 20px;
+    }
+    .whatsapp{
+        margin-right: 5px;
+        height: 20px;
+        width: 20px;
+    }
+    .tiktok{
+        margin-right: 5px;
+        height: 20px;
+        width: 20px;
+    }
+    .fa{
+        position: absolute;
+        width: 122px;
+        height: 19px;
+        left: 290px;
+        top: 1px;
+    
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 700;
+        font-size: 10px;
+        line-height: 24px;
+    
+        color: #ffffff;
+    
+    }
+    .htp{
+        position: absolute;
+        width: 201px;
+        height: 18px;
+        left: 288px;
+        top: 20px;
+    
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 18px;
+    
+        color: #FFFFFF;
+    }
+    .startgame{
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        height: 167px;
+        left: 0px;
+        top: 1013px;
+        
+        background: #307AB3;
+    }
+    .start{
+        position: absolute;
+        text-align: center;
+        width: 352px;
+        height: 75px;
+        left: 15%;
+        top: 59px;
+        
+        background: #FFED00;
+    }
+    .stattext{
+        left: 45%;
+    }
+    .maxonline{
+        left: 25%;
+    }
+    .burger{
+        display:block;
+        left: 89%;
+        position: absolute;
+        top: 5px;
+    }
+    .faqrectengle{
+        position: absolute;
+        left: 5%;
+        width: 90%;
+    }
+    .download{
+        left: 10%;
+    }
+    .install{
+        left: 15%;
+    }
+    .gameinstall{
+        left: 10%;
+    }
+    .autoinstall{
+        left: 15%;
+    }
+    .starting{
+        left: 10%;
+    }
+    .setnick{
+        left: 15%;
+    }
+    .infotext3{
+        display: block;
+        position: absolute;
+        width: 641px;
+        height: 115px;
+        left: 5%;
+        top: 316px;
+        
+        font-family: 'Inter';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        
+        color: #FFFFFF;
+    }
+    .infotext{
+        display: none;
+    }
+}
